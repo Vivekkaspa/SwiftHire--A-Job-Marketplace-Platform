@@ -41,7 +41,7 @@ backend/
 ├── pom.xml                  # Maven build configuration
 ├── src/                     # Source code
 │   ├── main/
-│   │   ├── java/com/example/quickhire/ # Core backend logic & APIs
+│   │   ├── java/com/example/Swifthire/ # Core backend logic & APIs
 │   │   └── resources/                  # Configuration files
 │   └── test/                           # Unit tests
 └── target/                  # Compiled build artifacts
